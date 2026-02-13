@@ -4,20 +4,20 @@ This project is a Streamlit-based web application that generates personalized le
 
 ## Features
 
-- 🎯 Generate personalized learning paths based on your goals
-- 🎥 Integration with YouTube for video content
-- 📁 Google Drive integration for document storage
-- 📝 Notion integration for note-taking and organization
-- 🚀 Real-time progress tracking
-- 🎨 User-friendly Streamlit interface
+-  Generate personalized learning paths based on your goals
+-  Integration with YouTube for video content
+-  Google Drive integration for document storage
+-  Notion integration for note-taking and organization
+-  Real-time progress tracking
+-  User-friendly Streamlit interface
 
-## Prerequisites
+Prerequisites
 
 - Python 3.10+
 - Google ai Studio API Key
 - Pipedream URLs for integrations (YouTube and either Drive or Notion)
 
-## Installation
+ Installation
 
 1. Clone the repository:
 
